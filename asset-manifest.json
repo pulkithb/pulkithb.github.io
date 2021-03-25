@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cc80c56.chunk.css",
-    "main.js": "/static/js/main.4ead0eac.chunk.js",
-    "main.js.map": "/static/js/main.4ead0eac.chunk.js.map",
+    "main.css": "/static/css/main.9a50fa95.chunk.css",
+    "main.js": "/static/js/main.7372c17f.chunk.js",
+    "main.js.map": "/static/js/main.7372c17f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.88a2d43a.js",
     "runtime-main.js.map": "/static/js/runtime-main.88a2d43a.js.map",
     "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b9321978.chunk.js.map": "/static/js/3.b9321978.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.8cc80c56.chunk.css.map": "/static/css/main.8cc80c56.chunk.css.map",
+    "static/css/main.9a50fa95.chunk.css.map": "/static/css/main.9a50fa95.chunk.css.map",
     "static/js/2.f8f823cb.chunk.js.LICENSE.txt": "/static/js/2.f8f823cb.chunk.js.LICENSE.txt",
     "static/media/C.564faee8.png": "/static/media/C.564faee8.png",
     "static/media/Codechef.857ab8f7.png": "/static/media/Codechef.857ab8f7.png",
@@ -33,9 +33,11 @@
     "static/media/Resume.20d8bf68.pdf": "/static/media/Resume.20d8bf68.pdf",
     "static/media/codechef.1cf89173.png": "/static/media/codechef.1cf89173.png",
     "static/media/codeforces.d5e469be.png": "/static/media/codeforces.d5e469be.png",
+    "static/media/csharp.48195cec.png": "/static/media/csharp.48195cec.png",
     "static/media/faceapp.9ebcddd9.png": "/static/media/faceapp.9ebcddd9.png",
     "static/media/github.f7e683c6.png": "/static/media/github.f7e683c6.png",
     "static/media/hackerrank.eb0c4786.png": "/static/media/hackerrank.eb0c4786.png",
+    "static/media/matlab.a3ab2ea1.png": "/static/media/matlab.a3ab2ea1.png",
     "static/media/portfolio.2d330c9a.png": "/static/media/portfolio.2d330c9a.png",
     "static/media/spoj.b6733120.png": "/static/media/spoj.b6733120.png",
     "static/media/stopstalk.668b8d54.png": "/static/media/stopstalk.668b8d54.png"
@@ -44,7 +46,7 @@
     "static/js/runtime-main.88a2d43a.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.f8f823cb.chunk.js",
-    "static/css/main.8cc80c56.chunk.css",
-    "static/js/main.4ead0eac.chunk.js"
+    "static/css/main.9a50fa95.chunk.css",
+    "static/js/main.7372c17f.chunk.js"
   ]
 }
